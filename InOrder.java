@@ -16,3 +16,5 @@ class InOrder {
         inorderUtil(root.right, res);
     }
 }
+
+//This is just a sample for traversal of a binary tree, If you want to implement other function, you can write you ownes. 
